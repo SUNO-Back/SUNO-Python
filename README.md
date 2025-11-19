@@ -1,2 +1,2 @@
-# SUNO-Pyton
+# SUNO-Pyhton
  SUNO Python Learning
